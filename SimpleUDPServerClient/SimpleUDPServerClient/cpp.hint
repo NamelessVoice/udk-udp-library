@@ -1,0 +1,2 @@
+#define SIMPLEUDPSERVERCLIENT_API __declspec(dllexport)
+#define SIMPLEUDPSERVERCLIENT_API __declspec(dllimport)
